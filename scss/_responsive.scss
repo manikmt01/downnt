@@ -1,0 +1,262 @@
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2550px) {
+}
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1700px) and (max-width: 2099.98px) {
+}
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1440px) and (max-width: 1699.98px) {
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1439.98px) {
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .comoBaixar .iem {
+    width: 320px;
+    height: 320px;
+    padding: 25px;
+  }
+  .comoBaixar .iem .boxInner h4 {
+    font-size: 26px;
+    margin-bottom: 12px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  header .navbar .offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+    line-height: 28.62px;
+  }
+  header .navbar .navbar-brand {
+    width: 200px;
+  }
+  .banner .box h1 {
+    font-size: 90.47px;
+  }
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (max-width: 991.98px) {
+  .banner .box form .buttonItem {
+    position: static;
+    margin-top: 25px;
+  }
+  .banner .box form input {
+    padding: 37px 40px 37px 40px;
+  }
+  .banner .box h1 {
+    font-size: 70.47px;
+    line-height: 70.11px;
+  }
+  br {
+    display: none;
+  }
+  .comoBaixar h2,
+  .sobreNos .sobreNosTop h2 {
+    font-size: 50px;
+    line-height: 46px;
+    margin-bottom: 60px;
+  }
+  .services .box .itemRgiht p {
+    text-align: center;
+  }
+  footer ul li {
+    margin-right: 30px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  header .navbar .offcanvas .offcanvas-body .navbar-nav .nav-item {
+    margin: 10px 15px;
+    padding: 0;
+  }
+  header {
+    .itemButton {
+      margin-top: 15px;
+    }
+  }
+  .banner .container {
+    min-height: auto;
+  }
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  header .navbar .navbar-brand {
+    margin-right: 0;
+    width: 140px;
+  }
+  header {
+    padding: 20px 0;
+    background-color: #fff;
+  }
+  .banner .box h1 {
+    font-size: 45.47px;
+    line-height: 50.11px;
+  }
+  .banner .box p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .banner .box form input {
+    padding: 15px 20px 15px 20px;
+    font-size: 13px;
+  }
+  .banner .box form button.copy {
+    width: auto;
+    height: auto;
+    font-size: 16px;
+    padding: 8px 10px;
+    margin-right: 10px;
+    img {
+      width: 15px;
+    }
+  }
+  .banner .box form button.download {
+    height: auto;
+    width: auto;
+    font-size: 16px;
+    padding: 8px 24px;
+    img {
+      width: 20px;
+    }
+  }
+  .comoBaixar {
+    padding: 80px 0 70px 0;
+  }
+  .comoBaixar h2,
+  .sobreNos .sobreNosTop h2 {
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 60px;
+  }
+  .comoBaixar .iem {
+    width: 320px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 35px;
+  }
+  .comoBaixar .iem .boxInner img {
+    width: 60px;
+  }
+  .comoBaixar .iem .boxInner h4,
+  .comoBaixar .iem .boxInner .h4 {
+    font-size: 22px;
+  }
+  .comoBaixar .iem .boxInner p {
+    font-size: 16px;
+  }
+  .FAQ .faqTop h2,
+  .FAQ .faqTop .h2 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .FAQ .faqTop h4,
+  .FAQ .faqTop .h4 {
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: 400;
+    margin-bottom: 0;
+  }
+  .FAQ .accordion .accordion-item .accordion-header button {
+    border-radius: 40px !important;
+    font-size: 18px;
+    padding: 20px 20px;
+  }
+  .FAQ .accordion .accordion-item .accordion-collapse .accordion-body p {
+    font-size: 15px;
+  }
+  .FAQ {
+    padding: 80px 0 90px 0;
+  }
+  .sobreNos {
+    padding: 80px 0 80px 0;
+  }
+  .sobreNos .sobreNosTop h4,
+  .sobreNos .sobreNosTop .h4 {
+    font-size: 16px;
+  }
+  .comoBaixar h2,
+  .comoBaixar .h2,
+  .sobreNos .sobreNosTop h2,
+  .sobreNos .sobreNosTop .h2 {
+    font-size: 28px;
+    line-height: 32px;
+    margin-bottom: 50px;
+  }
+  .sobreNos .box p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .services {
+    padding-top: 30px;
+    padding-bottom: 140px;
+  }
+  .services .box .itemRgiht p {
+    font-size: 18px;
+  }
+  footer ul li a {
+    font-size: 16px;
+    line-height: 24.62px;
+  }
+  footer a.logoImg {
+    margin-bottom: 50px;
+    width: 240px;
+  }
+  .services .box .itemLeft h4,
+  .services .box .itemLeft .h4 {
+    font-size: 22px;
+    line-height: 34px;
+  }
+  .services .box .itemLeft span {
+    display: inline-block;
+    font-size: 190.2px;
+    line-height: 235.22px;
+  }
+  footer {
+    padding: 70px 0;
+  }
+  header .navbar .offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link {
+    font-size: 20px;
+    line-height: 24.62px;
+  }
+}
+
+/*Extra small devices (portrait phones, less than 414px)*/
+@media (max-width: 414px) {
+}
+
+/*Extra small devices (portrait phones, less than 375px)*/
+@media (max-width: 375px) {
+}
+
+/*Extra small devices (portrait phones, less than 360px)*/
+@media (max-width: 360px) {
+}
+
+/*Extra small devices (portrait phones, less than 320px)*/
+@media (max-width: 320px) {
+}
+
+/* 
+2560*1440
+2160*1440
+1920×1080
+1600×900
+1536×864
+1440×900
+1366×768    
+1280×720    
+1280×800    
+1280×1024   
+1024×768    
+768×1024
+ */
